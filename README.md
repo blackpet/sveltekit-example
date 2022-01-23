@@ -1,3 +1,6 @@
+# firebase auth code sample
+잘 만들었구만! 소스 참조 [auth.ts](https://github.com/blackpet/sveltekit-example/blob/master/src/lib/auth.ts)
+
 # sveltekit-example
 
 Example to show firebase auth used on the client and accessed via a Svelte Store.
